@@ -1,6 +1,6 @@
-#=================================Breadth First Search Algorithm============================
+# Breadth First Search Algorithm
 
-#================================Class For BTS Algorithm=============================
+# Class For BTS Algorithm
 class BFS:
 
     def __init__(self):
